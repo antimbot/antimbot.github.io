@@ -111,3 +111,11 @@ a {
     margin-left: 160px;
     margin-right: 160px;
 }
+
+.img {
+    height: 32px;
+    width: 47px;
+}
+table {
+    margin-bottom: 10px;
+}
